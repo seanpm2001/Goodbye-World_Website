@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔥️🌍️🌐️ The official source repository for the website of the Goodbye World project, the opposite of a Hello World program, where you show off how much you know of a language, typically before moving on to another one.
