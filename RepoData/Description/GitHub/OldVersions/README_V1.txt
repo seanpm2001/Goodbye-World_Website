@@ -1,0 +1,1 @@
+🔥️🌍️🌐️ The official source repository for the website of the Goodbye World project, the opposite of a Hello World program, where you show off how much you know of a language, typically before moving on to another one.
